@@ -1,6 +1,7 @@
 **Team members**
-- Rishabh Rajput (Team leader)
+- [Rishabh Rajput](https://github.com/rrishabh145) (Team leader)
 - Mrinalini Singh
-- Animesh Agrawal
+- [Animesh Agrawal](https://github.com/soulspark666)
 - Mayank Kumar
+- [Apoorva Singh Chouhan](https://github.com/Apoorva-Chouhan)
 - Hackfest2019
